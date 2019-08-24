@@ -13,3 +13,5 @@ But corrected some errors like the next evolution, and and the texts are in port
 
 If you want to help me improve the app by adding animations and other features, I will be very happy. 
 Thank you all.
+
+if the application is not responsive collaborate with the fix, I'm just a beginner
